@@ -26,11 +26,11 @@ This repository contains:
 * 📄 Project Report (PDF)
 * 🖥️ 5 Shell Scripts:
 
-  * `script1_system_info.sh`
+  * `script1_system_report.sh`
   * `script2_package_inspector.sh`
   * `script3_disk_auditor.sh`
   * `script4_log_analyzer.sh`
-  * `script5_manifest_generator.sh`
+  * `script5_manifesto.sh`
 
 ---
 
@@ -54,11 +54,11 @@ sudo apt install git
 ### 🔹 1. Give Execution Permission
 
 ```bash
-chmod +x script1_system_info.sh
+chmod +x script1_system_report.sh
 chmod +x script2_package_inspector.sh
 chmod +x script3_disk_auditor.sh
 chmod +x script4_log_analyzer.sh
-chmod +x script5_manifest_generator.sh
+chmod +x script5_manifesto.sh
 ```
 
 ---
@@ -68,7 +68,7 @@ chmod +x script5_manifest_generator.sh
 #### ▶ Script 1 — System Identity Report
 
 ```bash
-./script1_system_info.sh
+./script1_system_report.sh
 ```
 
 #### ▶ Script 2 — Package Inspector
@@ -92,7 +92,7 @@ chmod +x script5_manifest_generator.sh
 #### ▶ Script 5 — Manifest Generator
 
 ```bash
-./script5_manifest_generator.sh
+./script5_manifesto.sh
 ```
 
 ---
